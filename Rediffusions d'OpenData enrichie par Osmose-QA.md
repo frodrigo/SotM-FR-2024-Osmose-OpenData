@@ -20,7 +20,7 @@ fred.rodrigo@gmail.com
 
 Signalement d'anomalies dans OSM
 
-Signalement données manquantes ou incomplètes depuis l'OpenData
+Signalement de données manquantes ou incomplètes depuis l'OpenData
 
 ----
 
@@ -28,7 +28,7 @@ Signalement données manquantes ou incomplètes depuis l'OpenData
 
 - 1000 analyseurs
 - 600 régions
-- 12 serveurs de calculs
+- 12 serveurs de calcul
 - \+ Analyseurs tiers
 
 ----
@@ -125,7 +125,7 @@ Signalement données manquantes ou incomplètes depuis l'OpenData
 
 La plus ancienne analyse de rapprochement.
 
-Pourquoi on reste sur un palier ?
+Pourquoi reste-t-on sur un palier ?
 
 ---
 
@@ -222,7 +222,6 @@ Exactement la même chose qu'en France
       - Opendata d'Osmose, BANO, Cadastre, Landuse
     - Exclure les faux positifs des exports
 
-
 ---
 
 ## Conclusion
@@ -230,5 +229,5 @@ Exactement la même chose qu'en France
 
 - Garder les données à jour
 - Amélioration réciproque
-- Proposer des données OSM plus complète et utilisable
+- Proposer des données OSM plus complètes et utilisables
 - Vers plus de collaboration entre communautés OSM et producteurs d'OpenData
